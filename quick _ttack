@@ -140,5 +140,3 @@ if _G.FastAttack then
         return FastAttack
     end)()
 end
-快速攻擊.txt
-5 KB
